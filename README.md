@@ -8,4 +8,4 @@ This is a file I want to keep in git.
 4. Make more changes
 5. to commit
 
-6 change made by someone else
+6. change made by someone else
