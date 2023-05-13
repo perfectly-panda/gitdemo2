@@ -7,3 +7,4 @@ This is a file I want to keep in git.
 5. Make more changes
 6. to commit
 7. change made by someone else
+8. Create a pull request
